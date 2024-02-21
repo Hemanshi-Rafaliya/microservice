@@ -11,8 +11,6 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL8Dialect
-  application:
-    name: config-default
 eureka:
   instance:
     ip-address: true
